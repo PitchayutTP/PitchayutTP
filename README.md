@@ -5,7 +5,7 @@
 I'm an Information Technology student in the Software Engineering Track
 at King Mongkut’s Institute of Technology Ladkrabang (KMITL).
 
-### Tech I Use
+## Tech I Use
 
 ### Languages & Web
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)

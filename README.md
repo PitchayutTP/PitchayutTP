@@ -2,6 +2,9 @@
 
 <br>
 
+I'm an Information Technology student in the Software Engineering Track
+at King Mongkut’s Institute of Technology Ladkrabang (KMITL).
+
 ### Tech I Use
 
 ![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)

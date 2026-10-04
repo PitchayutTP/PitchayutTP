@@ -2,8 +2,7 @@
 
 <br>
 
-I'm an Information Technology student in the Software Engineering Track
-at King Mongkut’s Institute of Technology Ladkrabang (KMITL)
+<p align="center">I'm an Information Technology student in the Software Engineering Track at King Mongkut’s Institute of Technology Ladkrabang (KMITL)</p>
 
 ## Tech I Use
 
